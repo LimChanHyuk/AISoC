@@ -1,0 +1,2 @@
+# AISoC
+AI sw class
